@@ -1,6 +1,6 @@
 # Learn yourself
 
-People are different, so the magic motivation solution do not exist.
+People are different, so the magic motivation solution does not exist.
 
 Become an expert in yourself.
 

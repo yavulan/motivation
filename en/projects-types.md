@@ -1,8 +1,8 @@
 # Project types
 
-Besides of the projects you would like there would be some amount of “stuck” projects.
+Besides of the projects you will like there would be some amount of “stuck” projects.
 
-**“Stuck” project** - project that permanently makes you let down. You will find yourself trying to do anything else except of that project (like me writing this text instead of working on my current project).
+**“Stuck” project** - project that permanently makes you let down. You will find yourself trying to do anything else except of that project (like me writing this text instead of working on current project).
 
 ## Be aware
 
