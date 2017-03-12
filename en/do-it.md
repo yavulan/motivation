@@ -6,5 +6,5 @@ Filling the gap between the understanding and repetitive solving of that issue i
 
 That's right. Now you know things. And it's yours decisions. Use it or lose it.
 
-Be passionate. Be creative. Have fun [😉](http://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal).
+Be passionate. Be creative. Have fun 😉.
 
