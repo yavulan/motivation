@@ -8,7 +8,7 @@ Besides of the projects you will like there would be some amount of “stuck” 
 
 Avoid self-destructing traps:
 
-* Cyclically think that you are doing bad on this project - it's absolutely normal to slow things down on that kind of projects
+* Cyclically think that you are doing bad on this project - it's absolutely normal to slow things down on that kind of project.
 * Changing mind to “I have to get rid of this by finishing it as fast as I can” - it is unproductively and leads to bad quality decisions. Also, it ties your motivation to the finish of a project, and in case the project is not small you will find yourself stuck.
 
 ## What to do
