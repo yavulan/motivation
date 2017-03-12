@@ -10,7 +10,7 @@ Being a freelancer gives your a freedom. But that freedom comes with necessity t
 It is useful to consider working on your motivation as a part of your occupation.
 
 Material motivation doesn't work the way we expect it to works (it is not linear in a long-term and we adapt quickly to the rise of income).
-So, we'll skip all material kinds of motivation.
+So, we'll skip all material kinds of motivation in this book.
 
 # Written
 
