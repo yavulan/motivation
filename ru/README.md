@@ -19,3 +19,16 @@
 # Цели
 
 Быть честным, острым и&nbsp;кратким без лишней воды и&nbsp;маркетинговых &laquo;фишек&raquo;.
+
+***
+# Вы можете
+
+Скачать эту книгу в формате **\*.pdf**, **\*.mobi** или **\*.epub**:
+* [https://www.gitbook.com/book/yavulan/motivation-uncovered/details/ru](https://www.gitbook.com/book/yavulan/motivation-uncovered/details/ru)
+
+Внести предложения или исправления на github:
+* [https://github.com/yavulan/motivation](https://github.com/yavulan/motivation)
+
+# Лицензия
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">лицензии Creative Commons «Attribution-NonCommercial-NoDerivatives» («Атрибуция — Некоммерческое использование — Без производных произведений») 4.0 Всемирная</a>.
