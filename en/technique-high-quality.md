@@ -1,8 +1,8 @@
 # High quality
 
-Doing moderate quality may be faster, especially on short-term projects. But it steals an opportunity to feel good about yourself and ruins positive reinforcement.
+Doing moderate quality work may be faster, especially on short-term projects. But it steals an opportunity to feel good about yourself and ruins positive reinforcement.
 
-In any situation try to do your best. It makes possible to love the result of your work .
+In any situation try to do your best. It makes possible to love the results of your work.
 
 ## Workflow example
 
