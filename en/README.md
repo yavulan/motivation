@@ -7,7 +7,7 @@ This book will provide some thoughts on motivation process. Mainly it covers fre
 # Brief intro
 
 Being a freelancer gives you freedom. But that freedom comes with necessity to resolve motivation issues over and over again.
-It is useful to consider working on your motivation as a part of your occupation.
+**It is useful to consider working on your motivation as a part of your occupation**.
 
 Material motivation doesn't work the way we expect it to work (it is not linear in a long-term and we adapt quickly to the rise of income).
 So, we'll skip all kinds of material motivation in this book.

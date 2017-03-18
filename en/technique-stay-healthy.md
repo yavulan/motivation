@@ -1,6 +1,6 @@
 # Take care of health
 
-Live a life and try to maintain yourself healthy.
+Live a life in all its areas and try to maintain yourself healthy.
 
 * Eat healthy, drink enough water
 * Sleep healthy
