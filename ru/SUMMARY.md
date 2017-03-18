@@ -1,7 +1,7 @@
 # Summary
 
 * [Вступление](README.md)
-* [Смотрим правде в глаза](face-it.md)
+* [Смотрим правде в&nbsp;глаза](face-it.md)
 * [Типы проектов](projects-types.md)
     * [Полюбите проект](technique-love-the-project.md)
     * [Проясните недопонимания](technique-resolve-misunderstanding.md)
@@ -9,7 +9,7 @@
     * [Работайте качественно](technique-high-quality.md)
     * [Релизьте часто](technique-deliver-frequently.md)
     * [Разработайте план](technique-have-a-plan.md)
-* [Не делайте ничего](technique-do-nothing.md)
-* [Следите за здоровьем](technique-stay-healthy.md)
+* [Не&nbsp;делайте ничего](technique-do-nothing.md)
+* [Следите за&nbsp;здоровьем](technique-stay-healthy.md)
 * [Изучайте себя](technique-learn-yourself.md)
 * [Эпилог](do-it.md)
