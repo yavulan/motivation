@@ -6,4 +6,4 @@ Filling the gap between the understanding and solving of that issue repetitively
 
 That's right. Now you know things. And it's yours decision. Use it or lose it.
 
-Be passionate. Be creative. Have fun 😉.
+Be passionate. Be creative. Have fun 😉
