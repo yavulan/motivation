@@ -8,7 +8,7 @@
 * [Станьте зависимым](technique-become-an-addict.md)
     * [Работайте качественно](technique-high-quality.md)
     * [Релизьте часто](technique-deliver-frequently.md)
-    * [Разработайте план](technique-have-a-plan.md)
+* [Планируйте](technique-have-a-plan.md)
 * [Не&nbsp;делайте ничего](technique-do-nothing.md)
 * [Следите за&nbsp;здоровьем](technique-stay-healthy.md)
 * [Изучайте себя](technique-learn-yourself.md)
