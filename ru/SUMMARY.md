@@ -12,4 +12,5 @@
 * [Не&nbsp;делайте ничего](technique-do-nothing.md)
 * [Следите за&nbsp;здоровьем](technique-stay-healthy.md)
 * [Изучайте себя](technique-learn-yourself.md)
+    * [Политика неосуждения](technique-non-judgment.md)
 * [Эпилог](do-it.md)
